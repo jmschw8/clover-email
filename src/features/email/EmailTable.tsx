@@ -36,7 +36,7 @@ export type UpdateFlagsFn = (args: {
 	payload: Partial<Pick<Email, "isFavorite" | "isRead">>;
 }) => void;
 
-// In reality, would have leverage a table library to abstract much of this
+// In reality, would have leveraged a table library to abstract much of this
 type EmailTableProps = {
 	emails?: Email[];
 	allIds: string[];
@@ -164,7 +164,7 @@ export default function EmailTable({
 						return (
 							<TableRow
 								key={id}
-								className={isSelected ? "bg-muted/20" : undefined}
+								className={isSelected ? "bg-blue-300" : undefined}
 							>
 								<TableCell>
 									<Checkbox

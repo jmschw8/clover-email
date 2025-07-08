@@ -57,6 +57,7 @@ const Filters = ({ params, setParams }: FiltersProps) => {
 		},
 	});
 
+	// Debounced real time filtering/searching
 	const raw = useWatch({
 		control: form.control,
 		name: ["search", "sender", "subject", "date", "isFavorite"],
@@ -72,7 +73,9 @@ const Filters = ({ params, setParams }: FiltersProps) => {
 		}),
 		[raw]
 	);
+
 	const debounced = useDebounce(watched, 300);
+
 	useEffect(() => {
 		setParams((prev) => ({
 			...prev,
@@ -104,7 +107,7 @@ const Filters = ({ params, setParams }: FiltersProps) => {
 								<FormControl>
 									<Input
 										className="w-full"
-										placeholder="Search by subject, sender, body..."
+										placeholder="Search by subject or sender"
 										{...field}
 									/>
 								</FormControl>

@@ -35,8 +35,7 @@ export const filterData = (emails: Email[], params?: EmailQueryParams) => {
 		}
 		// 'Search' looks at sender, subject, and body
 		if (qSearch) {
-			const unifiedSearch =
-				`${email.sender} ${email.subject} ${email.body}`.toLowerCase();
+			const unifiedSearch = `${email.sender} ${email.subject}`.toLowerCase();
 			if (!unifiedSearch.includes(qSearch)) return false;
 		}
 		// More granular searching
@@ -92,6 +91,7 @@ export const fetchEmails = async (): Promise<Email[]> => {
 		}
 
 		const data = (await res.json()) as Email[];
+		// Mocking out the isRead/isFavorite functionality from LS
 		const flags = loadFlaggedEmails();
 
 		data.forEach((e: Email) => {

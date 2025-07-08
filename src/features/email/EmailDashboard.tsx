@@ -15,6 +15,7 @@ const DEFAULT_PARAMS: EmailQueryParams = {
 
 export default function EmailDashboard() {
 	const [params, setParams] = useState<EmailQueryParams>(DEFAULT_PARAMS);
+	const [selectedIds, setSelectedIds] = useState<string[]>([]);
 	const { data: emails, isPending } = useEmails();
 	const { mutate: updateFlags } = useUpdateEmailFlags();
 
@@ -42,7 +43,7 @@ export default function EmailDashboard() {
 
 	const handlePageChange = (page: number) =>
 		setParams((param) => ({ ...param, page }));
-	const [selectedIds, setSelectedIds] = useState<string[]>([]);
+
 	const toggleSelectAll = () =>
 		setSelectedIds(
 			selectedIds.length === filteredAllIds.length ? [] : filteredAllIds
