@@ -1,0 +1,1002 @@
+[
+	{
+		"id": "44e32e14-15f9-4656-9ed7-cc6770d1e7cb",
+		"sender": "cameron.taylor@testmail.com",
+		"date": "2025-02-03T08:53:15.000Z",
+		"subject": "Status Update on Project Alpha",
+		"body": "Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Aliquam dictum odio a cursus congue.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "6a409d0b-1d29-49ba-8618-e6e3dd872291",
+		"sender": "jamie.anderson@testmail.com",
+		"date": "2025-06-22T09:10:32.000Z",
+		"subject": "Status Update on Project Alpha",
+		"body": "Integer vel ligula quis velit tristique volutpat quis vel mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "3e381ddc-98f3-4b76-bb73-c44536cb2895",
+		"sender": "taylor.lopez@testmail.com",
+		"date": "2025-01-30T02:37:40.000Z",
+		"subject": "Clarification Needed on Requirements",
+		"body": "Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Nam tincidunt est id sem molestie hendrerit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "c8a0872f-848b-4b19-930a-cff8e5c26f64",
+		"sender": "jamie.davis@testmail.com",
+		"date": "2024-06-29T07:28:17.000Z",
+		"subject": "Happy Hour This Friday?",
+		"body": "Integer vel ligula quis velit tristique volutpat quis vel mi. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Nam tincidunt est id sem molestie hendrerit. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "c1e7e976-e8af-4dbd-9cba-e9992c4d9d3c",
+		"sender": "hayden.wilson@testmail.com",
+		"date": "2025-04-12T10:42:26.000Z",
+		"subject": "Action Required: Security Training",
+		"body": "Nam tincidunt est id sem molestie hendrerit. Integer vel ligula quis velit tristique volutpat quis vel mi. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "9fa17785-f0ae-4205-bb3e-893df127350d",
+		"sender": "hayden.gonzalez@testmail.com",
+		"date": "2025-03-30T06:34:51.000Z",
+		"subject": "Annual Report Draft Attached",
+		"body": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Aliquam dictum odio a cursus congue. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "70e06270-4ffa-490a-8891-240da1af1138",
+		"sender": "devon.williams@testmail.com",
+		"date": "2024-03-14T00:21:57.000Z",
+		"subject": "Meeting Reschedule Request",
+		"body": "Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Nam tincidunt est id sem molestie hendrerit. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "30b6f4e2-9da3-4dfe-8dd4-797f8b8d8469",
+		"sender": "blake.anderson@testmail.com",
+		"date": "2024-12-05T17:59:33.000Z",
+		"subject": "Feedback on UI Mockups",
+		"body": "Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Integer vel ligula quis velit tristique volutpat quis vel mi. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "b5304565-5480-42b2-87d4-154796d9bc3f",
+		"sender": "parker.hernandez@testmail.com",
+		"date": "2025-06-22T03:29:53.000Z",
+		"subject": "Happy Hour This Friday?",
+		"body": "Aliquam dictum odio a cursus congue. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "7054184e-c1a1-4e8b-86ec-621e4cf38bde",
+		"sender": "morgan.gonzalez@testmail.com",
+		"date": "2024-01-16T19:08:51.000Z",
+		"subject": "Feedback on UI Mockups",
+		"body": "Integer vel ligula quis velit tristique volutpat quis vel mi. Aliquam dictum odio a cursus congue. Integer vel ligula quis velit tristique volutpat quis vel mi.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "7ee1752a-da5a-42af-b5f2-668600c4705f",
+		"sender": "morgan.lopez@testmail.com",
+		"date": "2024-05-20T10:35:05.000Z",
+		"subject": "Feedback on UI Mockups",
+		"body": "Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "63701a51-1764-47a9-ae8d-68c6ccd68058",
+		"sender": "riley.miller@testmail.com",
+		"date": "2024-08-31T00:03:26.000Z",
+		"subject": "New Brand Guidelines Released",
+		"body": "Integer vel ligula quis velit tristique volutpat quis vel mi. Integer vel ligula quis velit tristique volutpat quis vel mi. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "460bd25b-1cbb-43bd-8e1d-25fba846f742",
+		"sender": "quinn.brown@testmail.com",
+		"date": "2024-01-15T20:33:50.000Z",
+		"subject": "Action Required: Security Training",
+		"body": "Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "7392167d-b6d9-4767-82bb-4aa23b62c10c",
+		"sender": "reese.martin@testmail.com",
+		"date": "2024-05-24T14:05:22.000Z",
+		"subject": "Clarification Needed on Requirements",
+		"body": "Nam tincidunt est id sem molestie hendrerit. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "5d6a3f41-450d-4e42-b2a3-9fa2efeb043e",
+		"sender": "hayden.brown@testmail.com",
+		"date": "2025-06-10T01:53:07.000Z",
+		"subject": "Next Steps for Product Launch",
+		"body": "Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "da14b380-2191-4c3c-805d-9ef6087ba713",
+		"sender": "jamie.moore@testmail.com",
+		"date": "2024-08-05T02:07:42.000Z",
+		"subject": "Quick Question about client feedback",
+		"body": "Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Integer vel ligula quis velit tristique volutpat quis vel mi.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "04cdedd2-7bcd-42b8-97d9-ab02595f93a6",
+		"sender": "reese.davis@testmail.com",
+		"date": "2024-06-10T06:37:05.000Z",
+		"subject": "Follow\u2011up on Budget Proposal",
+		"body": "Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Integer vel ligula quis velit tristique volutpat quis vel mi. Nam tincidunt est id sem molestie hendrerit. Integer vel ligula quis velit tristique volutpat quis vel mi. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "2a9df7c0-891b-4098-898c-5ac1b393eddc",
+		"sender": "alex.rodriguez@testmail.com",
+		"date": "2024-03-12T03:34:26.000Z",
+		"subject": "Next Steps for Product Launch",
+		"body": "Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "82a61f3d-32c7-4b2a-8461-d182d751ebde",
+		"sender": "kai.davis@testmail.com",
+		"date": "2025-04-23T17:35:52.000Z",
+		"subject": "Next Steps for Product Launch",
+		"body": "Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Aliquam dictum odio a cursus congue. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "72e045d8-700a-4ae7-a962-349ce5437813",
+		"sender": "jordan.smith@testmail.com",
+		"date": "2024-10-26T22:17:35.000Z",
+		"subject": "Quick Question about client feedback",
+		"body": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Nam tincidunt est id sem molestie hendrerit. Aliquam dictum odio a cursus congue. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "619aef06-6150-475a-b39c-05b23e89fc58",
+		"sender": "riley.anderson@testmail.com",
+		"date": "2025-06-12T17:32:39.000Z",
+		"subject": "New Brand Guidelines Released",
+		"body": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Nam tincidunt est id sem molestie hendrerit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "f7dee743-243e-439d-984e-323f7bca3ffc",
+		"sender": "jordan.gonzalez@testmail.com",
+		"date": "2024-12-30T07:33:57.000Z",
+		"subject": "Request for Time Off",
+		"body": "Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "aeb6aa27-1c9c-4ddf-854f-e898c3961557",
+		"sender": "taylor.martin@testmail.com",
+		"date": "2024-02-25T01:37:58.000Z",
+		"subject": "Clarification Needed on Requirements",
+		"body": "Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "225e0efe-ba68-4f0a-9c0b-b6fc72ed97d2",
+		"sender": "kai.gonzalez@testmail.com",
+		"date": "2025-02-21T11:25:11.000Z",
+		"subject": "Clarification Needed on Requirements",
+		"body": "Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Integer vel ligula quis velit tristique volutpat quis vel mi. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "8397a672-87d5-4a51-b6b5-e0c2c7c62a1c",
+		"sender": "alex.taylor@testmail.com",
+		"date": "2024-08-03T02:38:54.000Z",
+		"subject": "Action Required: Security Training",
+		"body": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Nam tincidunt est id sem molestie hendrerit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "344c8e41-0079-43ce-8e00-390cf64355be",
+		"sender": "reese.thomas@testmail.com",
+		"date": "2024-05-06T20:03:15.000Z",
+		"subject": "Annual Report Draft Attached",
+		"body": "Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "741f095f-b708-4053-b7e3-5414ea27cb78",
+		"sender": "taylor.jones@testmail.com",
+		"date": "2024-11-30T20:30:50.000Z",
+		"subject": "Feedback on UI Mockups",
+		"body": "Nam tincidunt est id sem molestie hendrerit. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "2ae32460-2817-4b80-8dfa-fcf53ad4391a",
+		"sender": "morgan.hernandez@testmail.com",
+		"date": "2024-09-18T00:18:15.000Z",
+		"subject": "New Brand Guidelines Released",
+		"body": "Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "b24ba830-ac97-43df-bdb2-97320c8b7271",
+		"sender": "avery.davis@testmail.com",
+		"date": "2024-03-30T05:33:41.000Z",
+		"subject": "Request for Time Off",
+		"body": "Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Nam tincidunt est id sem molestie hendrerit. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "62a9de3b-fcc0-4433-88ae-bf314b5e6659",
+		"sender": "taylor.miller@testmail.com",
+		"date": "2025-03-09T16:12:39.000Z",
+		"subject": "Annual Report Draft Attached",
+		"body": "Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Integer vel ligula quis velit tristique volutpat quis vel mi. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "85b6f1cd-4664-44b0-82aa-125453227fcd",
+		"sender": "jordan.williams@testmail.com",
+		"date": "2025-01-02T16:19:17.000Z",
+		"subject": "Happy Hour This Friday?",
+		"body": "Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Aliquam dictum odio a cursus congue. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "d8171329-c649-4f35-ae2b-9a037c876535",
+		"sender": "morgan.taylor@testmail.com",
+		"date": "2025-02-09T07:10:55.000Z",
+		"subject": "Invitation: Design Review Session",
+		"body": "Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Aliquam dictum odio a cursus congue.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "9fd9524d-e816-4ff8-8ce1-84da26f8174e",
+		"sender": "jessie.taylor@testmail.com",
+		"date": "2024-06-17T17:31:48.000Z",
+		"subject": "Invitation: Design Review Session",
+		"body": "Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Nam tincidunt est id sem molestie hendrerit. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "1d22c556-7c85-4089-a8a5-d09ea2a2fee3",
+		"sender": "cameron.jackson@testmail.com",
+		"date": "2025-02-17T23:46:26.000Z",
+		"subject": "Clarification Needed on Requirements",
+		"body": "Nam tincidunt est id sem molestie hendrerit. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Aliquam dictum odio a cursus congue. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "21618c28-7213-4059-bc92-4fef3797bd71",
+		"sender": "riley.garcia@testmail.com",
+		"date": "2024-07-22T00:51:49.000Z",
+		"subject": "Team Offsite Logistics",
+		"body": "Aliquam dictum odio a cursus congue. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Aliquam dictum odio a cursus congue. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "8e03ea5a-c60c-4f09-9740-114c34c8c177",
+		"sender": "micah.martin@testmail.com",
+		"date": "2025-01-19T14:07:27.000Z",
+		"subject": "Next Steps for Product Launch",
+		"body": "Nam tincidunt est id sem molestie hendrerit. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Aliquam dictum odio a cursus congue. Nam tincidunt est id sem molestie hendrerit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "0e373c4d-6f2e-4806-aa34-ebe219709285",
+		"sender": "hayden.moore@testmail.com",
+		"date": "2025-06-10T04:15:35.000Z",
+		"subject": "Action Required: Security Training",
+		"body": "Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "65783ccc-b056-4929-a5cf-f9ae38eb22a8",
+		"sender": "logan.wilson@testmail.com",
+		"date": "2024-02-01T13:50:45.000Z",
+		"subject": "New Brand Guidelines Released",
+		"body": "Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "06638b76-11d1-402b-be66-c197814b50c9",
+		"sender": "casey.lopez@testmail.com",
+		"date": "2025-01-14T09:18:07.000Z",
+		"subject": "Annual Report Draft Attached",
+		"body": "Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Aliquam dictum odio a cursus congue. Aliquam dictum odio a cursus congue.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "aa680b9f-e52f-4bb3-8ff4-6d36d42f8c60",
+		"sender": "alex.hernandez@testmail.com",
+		"date": "2024-09-17T16:57:31.000Z",
+		"subject": "Clarification Needed on Requirements",
+		"body": "Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Integer vel ligula quis velit tristique volutpat quis vel mi.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "3cf706e1-cc04-40ad-9995-ce62b2975f41",
+		"sender": "alex.jackson@testmail.com",
+		"date": "2025-01-11T19:28:36.000Z",
+		"subject": "Team Offsite Logistics",
+		"body": "Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Integer vel ligula quis velit tristique volutpat quis vel mi. Aliquam dictum odio a cursus congue.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "7feb8e88-a8ac-4bda-9bf6-72279dcef79c",
+		"sender": "devon.jackson@testmail.com",
+		"date": "2025-04-06T03:54:43.000Z",
+		"subject": "Annual Report Draft Attached",
+		"body": "Nam tincidunt est id sem molestie hendrerit. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "b9ea46e9-3154-46d2-b8bb-3915253c0a1b",
+		"sender": "kai.brown@testmail.com",
+		"date": "2025-03-21T16:17:09.000Z",
+		"subject": "Feedback on UI Mockups",
+		"body": "Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Integer vel ligula quis velit tristique volutpat quis vel mi. Aliquam dictum odio a cursus congue.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "6cf7f64b-badc-496d-9987-5f7e1fc5be7c",
+		"sender": "hayden.martinez@testmail.com",
+		"date": "2024-08-28T20:14:17.000Z",
+		"subject": "Team Offsite Logistics",
+		"body": "Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "003fd9ac-982e-4b6b-adf8-92f758a86cb2",
+		"sender": "jamie.garcia@testmail.com",
+		"date": "2024-04-26T03:11:40.000Z",
+		"subject": "Clarification Needed on Requirements",
+		"body": "Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Nam tincidunt est id sem molestie hendrerit. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "e47c9c0c-56a1-4a72-98ad-abb9ce77e666",
+		"sender": "jessie.hernandez@testmail.com",
+		"date": "2025-01-02T13:45:30.000Z",
+		"subject": "Next Steps for Product Launch",
+		"body": "Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Integer vel ligula quis velit tristique volutpat quis vel mi.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "ebec26e2-3eb0-4096-ab32-270c66c89ed1",
+		"sender": "quinn.brown@testmail.com",
+		"date": "2025-01-06T14:18:25.000Z",
+		"subject": "Quick Question about client feedback",
+		"body": "Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Nam tincidunt est id sem molestie hendrerit. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "c9762da9-33f1-461e-a2c0-90c7fce860ac",
+		"sender": "taylor.williams@testmail.com",
+		"date": "2025-05-06T05:46:46.000Z",
+		"subject": "Follow\u2011up on Budget Proposal",
+		"body": "Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "ebd1cbda-ebc0-4d6c-b00c-4adbe6b9d277",
+		"sender": "blake.martinez@testmail.com",
+		"date": "2024-09-03T16:52:29.000Z",
+		"subject": "Clarification Needed on Requirements",
+		"body": "Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "1637b703-7e23-4a82-8f47-5880c6ab6f5e",
+		"sender": "micah.jones@testmail.com",
+		"date": "2024-12-22T10:39:29.000Z",
+		"subject": "Feedback on UI Mockups",
+		"body": "Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Aliquam dictum odio a cursus congue.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "796e9102-ca1a-4211-b5af-dbad3d25316c",
+		"sender": "riley.lopez@testmail.com",
+		"date": "2024-02-14T08:00:12.000Z",
+		"subject": "Status Update on Project Alpha",
+		"body": "Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Integer vel ligula quis velit tristique volutpat quis vel mi. Aliquam dictum odio a cursus congue. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "9a042ae6-fc28-48d2-b2c3-ffccd9ca6124",
+		"sender": "avery.thomas@testmail.com",
+		"date": "2025-06-22T12:41:17.000Z",
+		"subject": "Team Offsite Logistics",
+		"body": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Integer vel ligula quis velit tristique volutpat quis vel mi. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "81edda31-6f8a-4222-aaf0-b1a7bd4e8afb",
+		"sender": "avery.jackson@testmail.com",
+		"date": "2024-09-08T04:15:25.000Z",
+		"subject": "Reminder: Performance Reviews",
+		"body": "Aliquam dictum odio a cursus congue. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "4c920810-83f8-4012-9e0d-3fe71dce4a18",
+		"sender": "logan.martin@testmail.com",
+		"date": "2024-06-25T04:02:29.000Z",
+		"subject": "Team Offsite Logistics",
+		"body": "Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "d57814e3-d0c9-48d0-9a83-8c3c4a53b658",
+		"sender": "jessie.rodriguez@testmail.com",
+		"date": "2024-08-25T09:19:50.000Z",
+		"subject": "Annual Report Draft Attached",
+		"body": "Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Nam tincidunt est id sem molestie hendrerit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "373c754c-2361-444a-9b72-e02ac58621df",
+		"sender": "blake.johnson@testmail.com",
+		"date": "2024-06-19T00:09:09.000Z",
+		"subject": "Invitation: Design Review Session",
+		"body": "Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Aliquam dictum odio a cursus congue. Nam tincidunt est id sem molestie hendrerit. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "2265fc9d-f7dd-4774-814e-c1c34a33b086",
+		"sender": "drew.davis@testmail.com",
+		"date": "2024-05-14T09:33:12.000Z",
+		"subject": "Follow\u2011up on Budget Proposal",
+		"body": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "89458fe2-c80c-40ce-8a15-d3c901aa15af",
+		"sender": "morgan.wilson@testmail.com",
+		"date": "2024-05-01T17:58:54.000Z",
+		"subject": "Team Offsite Logistics",
+		"body": "Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "59c7e953-fc93-4bd9-a5e6-76c00f38297c",
+		"sender": "jessie.wilson@testmail.com",
+		"date": "2025-03-07T07:24:28.000Z",
+		"subject": "Happy Hour This Friday?",
+		"body": "Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "c988073e-867a-42e3-a110-82f19b6d4afa",
+		"sender": "jordan.garcia@testmail.com",
+		"date": "2024-08-17T03:48:40.000Z",
+		"subject": "Quick Question about client feedback",
+		"body": "Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Nam tincidunt est id sem molestie hendrerit. Aliquam dictum odio a cursus congue. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "ee90f445-1539-497c-8548-4bd2543436b1",
+		"sender": "casey.jackson@testmail.com",
+		"date": "2024-02-07T04:42:07.000Z",
+		"subject": "Clarification Needed on Requirements",
+		"body": "Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Aliquam dictum odio a cursus congue. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "1063eca2-a98c-48df-8435-9cf0f90097d0",
+		"sender": "devon.martinez@testmail.com",
+		"date": "2024-01-09T00:52:03.000Z",
+		"subject": "Request for Time Off",
+		"body": "Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Integer vel ligula quis velit tristique volutpat quis vel mi. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "b51dafba-efd1-4066-9cc8-9c40d5cf1d92",
+		"sender": "alex.rodriguez@testmail.com",
+		"date": "2025-04-14T08:43:40.000Z",
+		"subject": "Meeting Reschedule Request",
+		"body": "Nam tincidunt est id sem molestie hendrerit. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "2d0671fe-bec4-4ae1-9eb2-081b488603d5",
+		"sender": "drew.garcia@testmail.com",
+		"date": "2024-01-18T13:45:21.000Z",
+		"subject": "Invitation: Design Review Session",
+		"body": "Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Nam tincidunt est id sem molestie hendrerit. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "2cbfd40a-2c50-4e4b-a852-f15fbc981653",
+		"sender": "blake.gonzalez@testmail.com",
+		"date": "2025-01-08T09:21:18.000Z",
+		"subject": "New Brand Guidelines Released",
+		"body": "Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "224c2f95-4b56-4b21-bf1d-b40dd3ea6743",
+		"sender": "taylor.hernandez@testmail.com",
+		"date": "2024-04-23T06:49:01.000Z",
+		"subject": "Feedback on UI Mockups",
+		"body": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "900e8d12-b713-4d7c-8345-31750f696d7a",
+		"sender": "jamie.martinez@testmail.com",
+		"date": "2024-07-11T04:29:01.000Z",
+		"subject": "Team Offsite Logistics",
+		"body": "Aliquam dictum odio a cursus congue. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Integer vel ligula quis velit tristique volutpat quis vel mi. Integer vel ligula quis velit tristique volutpat quis vel mi.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "e8b27572-4d8b-4371-a5a5-8a1a4b1cab4a",
+		"sender": "parker.brown@testmail.com",
+		"date": "2024-07-21T11:59:26.000Z",
+		"subject": "Clarification Needed on Requirements",
+		"body": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Aliquam dictum odio a cursus congue. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Integer vel ligula quis velit tristique volutpat quis vel mi. Aliquam dictum odio a cursus congue.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "e2f6a3c9-b7a8-41d3-a9a7-4a50ff581774",
+		"sender": "alex.thomas@testmail.com",
+		"date": "2024-06-13T19:51:07.000Z",
+		"subject": "Status Update on Project Alpha",
+		"body": "Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Nam tincidunt est id sem molestie hendrerit. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Integer vel ligula quis velit tristique volutpat quis vel mi. Integer vel ligula quis velit tristique volutpat quis vel mi.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "5ab06680-7e54-4db9-ade3-7a02329a686d",
+		"sender": "logan.garcia@testmail.com",
+		"date": "2025-03-12T06:10:06.000Z",
+		"subject": "Quick Question about client feedback",
+		"body": "Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Nam tincidunt est id sem molestie hendrerit. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "375a8f42-2515-4e32-b6bd-5b0a77cabe92",
+		"sender": "taylor.smith@testmail.com",
+		"date": "2025-03-09T11:18:45.000Z",
+		"subject": "Happy Hour This Friday?",
+		"body": "Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Nam tincidunt est id sem molestie hendrerit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "3e329519-cc54-460a-86ac-1ad6aa4ceb4a",
+		"sender": "casey.williams@testmail.com",
+		"date": "2025-03-19T21:36:09.000Z",
+		"subject": "Clarification Needed on Requirements",
+		"body": "Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Integer vel ligula quis velit tristique volutpat quis vel mi.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "84cbdaa9-0583-41f5-9cf3-5e0aeaa7be57",
+		"sender": "micah.davis@testmail.com",
+		"date": "2025-02-13T02:15:51.000Z",
+		"subject": "Meeting Reschedule Request",
+		"body": "Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "bac23cd3-1b68-493c-a830-816c9cf829eb",
+		"sender": "hayden.taylor@testmail.com",
+		"date": "2024-01-20T03:22:16.000Z",
+		"subject": "Clarification Needed on Requirements",
+		"body": "Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Aliquam dictum odio a cursus congue. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "2af9c351-006d-446f-99e3-804d47b10d96",
+		"sender": "reese.jackson@testmail.com",
+		"date": "2024-06-14T10:04:56.000Z",
+		"subject": "Clarification Needed on Requirements",
+		"body": "Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "a91a0ebd-84da-4e6f-8b02-e2c8a219e058",
+		"sender": "devon.wilson@testmail.com",
+		"date": "2024-10-11T20:03:16.000Z",
+		"subject": "Reminder: Performance Reviews",
+		"body": "Integer vel ligula quis velit tristique volutpat quis vel mi. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Nam tincidunt est id sem molestie hendrerit. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "bb658830-4a2c-45bb-bde3-b81f9918e2ac",
+		"sender": "logan.wilson@testmail.com",
+		"date": "2024-06-26T03:24:57.000Z",
+		"subject": "Happy Hour This Friday?",
+		"body": "Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "3e307d5c-31d0-4d60-9f66-c004acf86326",
+		"sender": "taylor.lopez@testmail.com",
+		"date": "2024-11-12T17:53:40.000Z",
+		"subject": "Follow\u2011up on Budget Proposal",
+		"body": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Nam tincidunt est id sem molestie hendrerit. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Integer vel ligula quis velit tristique volutpat quis vel mi.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "12c916ab-7b86-475e-8f5c-6ac90555d0d3",
+		"sender": "casey.hernandez@testmail.com",
+		"date": "2024-06-17T22:51:49.000Z",
+		"subject": "Annual Report Draft Attached",
+		"body": "Integer vel ligula quis velit tristique volutpat quis vel mi. Integer vel ligula quis velit tristique volutpat quis vel mi. Aliquam dictum odio a cursus congue.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "8ac7267b-8bcd-494c-938b-bf98dfbf3c5a",
+		"sender": "jessie.martinez@testmail.com",
+		"date": "2024-04-14T21:05:36.000Z",
+		"subject": "Meeting Reschedule Request",
+		"body": "Nam tincidunt est id sem molestie hendrerit. Nam tincidunt est id sem molestie hendrerit. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "97611040-f007-4e8c-95ed-d7beab52a118",
+		"sender": "reese.jones@testmail.com",
+		"date": "2024-12-11T04:54:35.000Z",
+		"subject": "Next Steps for Product Launch",
+		"body": "Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Nam tincidunt est id sem molestie hendrerit. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "9de969b2-1f8e-4f18-bfb8-a1d6dd6e5e91",
+		"sender": "devon.rodriguez@testmail.com",
+		"date": "2024-02-06T22:16:36.000Z",
+		"subject": "Next Steps for Product Launch",
+		"body": "Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Aliquam dictum odio a cursus congue. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "ea3f6b58-c9c8-4e09-8af4-b0c02a326942",
+		"sender": "blake.johnson@testmail.com",
+		"date": "2024-05-23T04:18:35.000Z",
+		"subject": "Request for Time Off",
+		"body": "Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "a73fc788-acce-4783-8f3e-dd736b65b3eb",
+		"sender": "reese.lopez@testmail.com",
+		"date": "2024-05-30T02:28:46.000Z",
+		"subject": "Annual Report Draft Attached",
+		"body": "Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Integer vel ligula quis velit tristique volutpat quis vel mi. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Nam tincidunt est id sem molestie hendrerit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "21c5e37b-9ed5-4eba-aae1-e79fc28063fe",
+		"sender": "riley.hernandez@testmail.com",
+		"date": "2025-05-10T02:32:38.000Z",
+		"subject": "Invitation: Design Review Session",
+		"body": "Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Integer vel ligula quis velit tristique volutpat quis vel mi. Integer vel ligula quis velit tristique volutpat quis vel mi.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "496da507-926f-4b63-a81f-918242e0d3ce",
+		"sender": "hayden.moore@testmail.com",
+		"date": "2024-05-21T03:07:00.000Z",
+		"subject": "Request for Time Off",
+		"body": "Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "0c853c08-a8f7-4bee-b8bd-c670887ae26f",
+		"sender": "devon.miller@testmail.com",
+		"date": "2024-02-01T16:50:58.000Z",
+		"subject": "Reminder: Performance Reviews",
+		"body": "Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Integer vel ligula quis velit tristique volutpat quis vel mi. Aliquam dictum odio a cursus congue.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "fb03dedb-ae0c-4324-bc64-2a06ae7b60e0",
+		"sender": "jessie.garcia@testmail.com",
+		"date": "2024-08-25T02:50:32.000Z",
+		"subject": "Follow\u2011up on Budget Proposal",
+		"body": "Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "697295e8-ec9f-4d6b-a21c-ecb3e185c1a9",
+		"sender": "reese.jones@testmail.com",
+		"date": "2025-06-05T18:19:07.000Z",
+		"subject": "Request for Time Off",
+		"body": "Integer vel ligula quis velit tristique volutpat quis vel mi. Integer vel ligula quis velit tristique volutpat quis vel mi. Nam tincidunt est id sem molestie hendrerit. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "c47c3031-a68f-48bd-83a9-a8111cfca215",
+		"sender": "reese.moore@testmail.com",
+		"date": "2025-03-10T16:57:07.000Z",
+		"subject": "Annual Report Draft Attached",
+		"body": "Aliquam dictum odio a cursus congue. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "0525adfb-e2ff-4c04-b79a-4578fdd04bf3",
+		"sender": "reese.martin@testmail.com",
+		"date": "2024-11-20T11:11:01.000Z",
+		"subject": "Follow\u2011up on Budget Proposal",
+		"body": "Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Nam tincidunt est id sem molestie hendrerit. Nam tincidunt est id sem molestie hendrerit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "33f842d2-38fe-4395-81b7-ced6a4dccc9c",
+		"sender": "kai.smith@testmail.com",
+		"date": "2025-02-18T11:33:09.000Z",
+		"subject": "Happy Hour This Friday?",
+		"body": "Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Integer vel ligula quis velit tristique volutpat quis vel mi.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "3bb71ae7-a60c-4594-89af-c8fc6372de4a",
+		"sender": "logan.jackson@testmail.com",
+		"date": "2025-04-06T13:17:48.000Z",
+		"subject": "Quick Question about client feedback",
+		"body": "Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "1b3daa53-5bbf-4fd6-b6bb-ca1dab865198",
+		"sender": "parker.garcia@testmail.com",
+		"date": "2024-12-17T18:40:29.000Z",
+		"subject": "Reminder: Performance Reviews",
+		"body": "Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Nam tincidunt est id sem molestie hendrerit. Aliquam dictum odio a cursus congue. Integer vel ligula quis velit tristique volutpat quis vel mi. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "4cbf57be-ead7-41b5-9ac1-598b8e1c7d44",
+		"sender": "devon.jackson@testmail.com",
+		"date": "2024-06-24T13:32:56.000Z",
+		"subject": "Follow\u2011up on Budget Proposal",
+		"body": "Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Aliquam dictum odio a cursus congue. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Integer vel ligula quis velit tristique volutpat quis vel mi. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "96e56beb-b357-42c4-8efe-8b1ef1686cc5",
+		"sender": "quinn.moore@testmail.com",
+		"date": "2024-12-10T09:02:44.000Z",
+		"subject": "Annual Report Draft Attached",
+		"body": "Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "e6ef123d-6f04-48a1-8a15-7c9b33f332b3",
+		"sender": "blake.garcia@testmail.com",
+		"date": "2024-01-17T08:34:15.000Z",
+		"subject": "New Brand Guidelines Released",
+		"body": "Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Donec bibendum eros vitae eros lacinia, nec mollis lorem aliquet. Nam tincidunt est id sem molestie hendrerit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "530bb17c-cb2d-4731-bdfd-ce6142937085",
+		"sender": "hayden.lopez@testmail.com",
+		"date": "2024-07-08T20:07:03.000Z",
+		"subject": "Annual Report Draft Attached",
+		"body": "Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Mauris viverra, leo ac convallis dictum, orci purus finibus sem, at sagittis libero mauris eu lectus. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "a774f5ca-471e-405f-aedf-77216273266d",
+		"sender": "taylor.hernandez@testmail.com",
+		"date": "2024-11-20T18:19:36.000Z",
+		"subject": "Clarification Needed on Requirements",
+		"body": "Sed vulputate leo nec leo gravida, sit amet feugiat massa suscipit. Integer faucibus odio sed elit maximus, eget pharetra elit ullamcorper. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Nam tincidunt est id sem molestie hendrerit. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	},
+	{
+		"id": "5126c6b4-314a-4c2d-a397-ebb9658fe799",
+		"sender": "drew.moore@testmail.com",
+		"date": "2024-09-09T22:37:05.000Z",
+		"subject": "Team Offsite Logistics",
+		"body": "Curabitur suscipit orci ut urna cursus, nec pellentesque lacus placerat. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. Phasellus vestibulum ligula sed augue fermentum, vitae facilisis turpis venenatis.",
+		"recipient": "jmschwartz8@testingClover.com",
+		"isFavorite": false,
+		"read": false
+	}
+]
