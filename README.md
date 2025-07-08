@@ -1,4 +1,4 @@
-# BattedBall Demo App
+# Email Demo App
 
 This is a demo application built with React, TS, Vite, shad/cn ui, and TailwindCSS
 
