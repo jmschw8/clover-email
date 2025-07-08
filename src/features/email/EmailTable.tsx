@@ -192,7 +192,7 @@ export default function EmailTable({
 													}
 												>
 													{isFavorite ? (
-														<Star className="fill-current" />
+														<Star className="fill-amber-200" />
 													) : (
 														<StarOff />
 													)}
@@ -214,11 +214,7 @@ export default function EmailTable({
 														onUpdate({ id, payload: { isRead: !isRead } })
 													}
 												>
-													{isRead ? (
-														<MailOpen />
-													) : (
-														<Mail className="fill-current" />
-													)}
+													{isRead ? <MailOpen /> : <Mail />}
 												</Button>
 											</TooltipTrigger>
 											<TooltipContent>
