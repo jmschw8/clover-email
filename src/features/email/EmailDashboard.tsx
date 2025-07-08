@@ -65,7 +65,7 @@ export default function EmailDashboard() {
 				onSortChange={(field) =>
 					setParams((p) => ({
 						...p,
-						sortBy: field as EmailQueryParams["sortBy"],
+						sortBy: field,
 						sortDir:
 							p.sortBy === field
 								? p.sortDir === "asc"

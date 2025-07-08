@@ -44,9 +44,10 @@ export const filterData = (emails: Email[], params?: EmailQueryParams) => {
 
 		if (date) {
 			const { from, to } = date;
+			const emailDate = new Date(email.date);
 
-			if (from && email.date < from) return false;
-			if (to && email.date > to) return false;
+			if (from && emailDate < from) return false;
+			if (to && emailDate > to) return false;
 		}
 		return true;
 	});
