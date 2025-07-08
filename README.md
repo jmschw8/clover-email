@@ -4,7 +4,7 @@ This is a demo application built with React, TS, Vite, shad/cn ui, and TailwindC
 
 ## Running Locally
 
-clone the repo: `git clone repo: https://github.com/jmschw8/clover-email`
+clone the repo: `git clone https://github.com/jmschw8/clover-email`
 
 cd into directory `cd clover-email`
 
